@@ -4,7 +4,7 @@ import BackgroundSlider from 'react-background-slider'
 import background from "./c1.jpg"
 import background1 from "./c2.jpg"
 import background2 from "./c3.jpg"
-
+//
 function App() {
   return (
     <div>
